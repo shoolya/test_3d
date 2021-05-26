@@ -1,0 +1,11 @@
+Model Information:
+* title:	Баня_
+* source:	https://sketchfab.com/3d-models/--4062b3ec1e614f21961049ea7f9af434
+* author:	Лаборатория 2.0 (https://sketchfab.com/Alexsandr.Romanov)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Баня_" (https://sketchfab.com/3d-models/--4062b3ec1e614f21961049ea7f9af434) by Лаборатория 2.0 (https://sketchfab.com/Alexsandr.Romanov) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
